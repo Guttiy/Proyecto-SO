@@ -1,0 +1,6 @@
+perro
+gato
+tortuga
+conejo
+hamster
+canario
